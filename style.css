@@ -1,4 +1,4 @@
-/* Google Font: Pacifico */
+
 
 *{
     margin:0;
@@ -19,7 +19,7 @@ body{
     overflow:hidden;
 }
 
-/* Heading */
+
 h1{
     color:#172446;
     font-size:clamp(2rem,6vw,4rem);
@@ -51,7 +51,7 @@ button:active{
     transform:scale(0.98);
 }
 
-/* Floating Hearts */
+
 .heart{
     position:fixed;
     font-size:clamp(80px,18vw,220px);
